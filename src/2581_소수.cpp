@@ -7,7 +7,7 @@ int main()
 
 	cin >> M >> N;
 
-	int minPrime = 10000;
+	int minPrime = 0;
 	int sumPrime = 0;
 
 	for (int i = M; i <= N; i++)
